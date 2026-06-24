@@ -1,6 +1,6 @@
-# My Friend's Paint 3D Model
+# My Friend(Dpqpqp)'s Paint 3D Model
 
-This is a 3D model originally created by my friend using **Microsoft Paint 3D**. I made a quick recreation of it and open-sourced it for fun.
+This is a 3D model originally created by my friend (Dpqpqp) using **Microsoft Paint 3D**. I made a quick recreation of it and open-sourced it for fun.
 
 ---
 
